@@ -1,0 +1,23 @@
+.header {
+    /* position: absolute;
+    top: 8px;
+    left: 16px; */
+    /* margin: 32px 0;  */
+    padding: 10px 0;
+    background-color: coral;
+  }
+
+  .container {
+      max-width: 500px;
+      margin: 0 auto; 
+       
+  }
+  .image {
+      width: 500px;
+      height: 400px;
+  }
+
+  .nav-item {
+
+    text-decoration: none;
+  }
